@@ -7,7 +7,7 @@ namespace DepInjServiceLifetime.Services
    {
       public ScopedService()
       {
-         Debug.WriteLine("ScopedService Has Created");
+         Debug.WriteLine("Scoped Service Has Created");
       }
    }
 
